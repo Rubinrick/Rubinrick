@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rubinrick" alt="rubinrick" /></a> </p>
 
-- 🔭 I’m currently working on **Social media project**
+- 🔭 I worked an Intern as **Java Developer**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I've good knowledge on **MERN Stack**
 
 - 🤝 I’m looking for help with **React.js , Node**
 
